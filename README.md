@@ -50,6 +50,8 @@ This program only uses clover and kexts injection, there is no kext to modify in
 - Device Option --- LAN/WLAN Switching disable
 - FastBoot disable
 
+### SIP Security and Gatekeeper must be disable to Build the Package and create the USB Install drive.
+
 ### To use this program you will have to boot on a fresh installation with the Create Install Media HP Laptop tools.
 -  « IMPORTANT » without adding file aml (DSDT.aml), (SSDT.aml) in  /EFI / CLOVER / ACPI. 
 - Boot macOS Only with the two files that are present SSDT-IGPU.aml, SSDT-HMF.aml.
