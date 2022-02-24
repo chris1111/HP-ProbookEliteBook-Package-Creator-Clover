@@ -64,6 +64,17 @@ This program only uses clover and kexts injection, there is no kext to modify in
 ## Recommand WIFI
 - Wifi mini PCI Broadcom BCM943224HMS
 
+- ———————————————————————————————
+
+Download and Build ➤ [HP-Probook-EliteBook-Package-Creator-Clover](https://github.com/chris1111/HP-ProbookEliteBook-Package-Creator-Clover/archive/refs/heads/Master.zip)	
+
+
+- ———————————————————————————————
+
+- Video HP-Probook-EliteBook-Package-Creator-Clover ⬇︎
+
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/134072536-7c46b8cc-4d8b-42f9-a28a-3c02734f1f5d.png)](https://youtu.be/ae2vHX9G1hE)
+
 ## Card reader Fix for macOS Big Sur 11 and macOS Monterey only
 - Bios setup ☞ Port Option: Uncheck 1394 Port
 - SIP security disable
@@ -80,12 +91,3 @@ This program only uses clover and kexts injection, there is no kext to modify in
 
 </details>
 - ———————————————————————————————
-
-Download and Build ➤ [HP-Probook-EliteBook-Package-Creator-Clover](https://github.com/chris1111/HP-ProbookEliteBook-Package-Creator-Clover/archive/refs/heads/Master.zip)	
-
-
-- ———————————————————————————————
-
-- Video HP-Probook-EliteBook-Package-Creator-Clover ⬇︎
-
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/134072536-7c46b8cc-4d8b-42f9-a28a-3c02734f1f5d.png)](https://youtu.be/ae2vHX9G1hE)
