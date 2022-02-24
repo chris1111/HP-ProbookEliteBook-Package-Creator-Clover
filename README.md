@@ -76,16 +76,17 @@ Download and Build ➤ [HP-Probook-EliteBook-Package-Creator-Clover](https://git
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/134072536-7c46b8cc-4d8b-42f9-a28a-3c02734f1f5d.png)](https://youtu.be/ae2vHX9G1hE)
 
 ## Card reader Fix for macOS Big Sur 11 and macOS Monterey only
-- Bios setup ☞ Port Option: Uncheck 1394 Port
-- SIP security disable
-
-- Reboot to the SSD then Install [JMicron-Card-Reader installer](https://github.com/chris1111/JMicron-Card-Reader) Folowed Guide.pdf
-- Before reboot, you have to allow JMicron update extensions
-#### Lower then macOS 11 open new issue I will send you the file kext to add in Clover
 
 -  #### View Spoiler ⇩ Card Reader works
 <details> 
-<summary>View list  </summary>
+<summary>View Card reader Fix </summary>
+   
+- Bios setup ☞ Port Option: Uncheck 1394 Port
+- SIP security disable
+- Reboot to the SSD then Install [JMicron-Card-Reader installer](https://github.com/chris1111/JMicron-Card-Reader) Folowed Guide.pdf
+- Before reboot, you have to allow JMicron update extensions
+#### Lower then macOS 11 open new issue I will send you the file kext to add in Clover
+   
    
 ![Screen Shot ](https://user-images.githubusercontent.com/6248794/87852436-f4426980-c8cf-11ea-913f-72c6093eb32a.png)	
 
