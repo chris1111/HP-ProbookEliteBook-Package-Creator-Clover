@@ -1,0 +1,40 @@
+#!/bin/bash
+
+DEST_VOL="$3"
+EFI_ROOT_DIR=$(cd "${DEST_VOL}"/Private/tmp/EFIROOTDIR; pwd -P)
+install_log="${DEST_VOL}/Private/tmp/Clover_Install_Log.txt"
+
+if [ -d "${3}/Applications/Command Line EFI Mounteur.app" ]; then
+    rm -rf "${3}/Applications/Command Line EFI Mounteur.app"
+fi
+
+if [ -d "${3}/Applications/Drop EFI.app" ]; then
+    rm -rf "${3}/Applications/Drop EFI.app"
+fi
+
+if [ -d "${3}/Applications/IORegistryExplorer.app" ]; then
+    rm -rf "${3}/Applications/IORegistryExplorer.app"
+fi
+
+
+if [ -d "${3}/Applications/MaciASL.app" ]; then
+    rm -rf "${3}/Applications/MaciASL.app"
+fi
+
+if [ -d "${3}/Applications/Clover Configurator.app" ]; then
+    rm -rf "${3}/Applications/Clover Configurator.app"
+fi
+
+
+if [ -d "${3}/Applications/RDM.app" ]; then
+    rm -rf "${3}/Applications/RDM.app"
+fi
+
+
+echo "======================================================" >> "$install_log"
+echo "Installing Hackintosh Applications" >> "$install_log"
+echo "" >> "$install_log"
+
+
+
+

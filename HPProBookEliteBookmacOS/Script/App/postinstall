@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+
+
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"Command Line EFI Mounter.zip" /Applications
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"Drop EFI.zip" /Applications
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"IORegistryExplorer.zip" /Applications
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"MaciASL.zip" /Applications
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"RDM.zip" /Applications
+ditto -x -k --sequesterRsrc --rsrc /Private/tmp/"Clover Configurator.zip" /Applications
+Sleep 2
+
+rm -rf /Private/tmp/"Command Line EFI Mounter.zip"
+rm -rf /Private/tmp/"Drop EFI.zip"
+rm -rf /Private/tmp/"IORegistryExplorer.zip"
+rm -rf /Private/tmp/"MaciASL.zip"
+rm -rf /Private/tmp/"RDM.zip"
+rm -rf /Private/tmp/"Clover Configurator.zip"
+
