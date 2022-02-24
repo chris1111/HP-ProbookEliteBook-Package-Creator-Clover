@@ -12,7 +12,7 @@
 - Usb key 16 gig, Install macOS.app from the Mac App Store, Spare SSD to install macOS
 
 
-#### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
+#### This is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15, macOS Big Sur 11, macOS Monterey 12
 
 ## Credit:
