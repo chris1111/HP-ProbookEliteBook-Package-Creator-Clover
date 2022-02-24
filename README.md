@@ -8,7 +8,10 @@
 ![Main Logo](https://user-images.githubusercontent.com/6248794/155245353-8fd23843-912f-4288-9623-e067f733a918.png)
 
 ----------------------------------------------------------------------------
- 
+#### What you need: 
+- Usb install driver 16 gig, Install macOS.app from the Mac App Store, Spare SSD to install macOS
+
+
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15, macOS Big Sur 11, macOS Monterey 12
 
