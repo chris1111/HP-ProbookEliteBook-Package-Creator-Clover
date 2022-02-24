@@ -9,7 +9,7 @@
 
 ----------------------------------------------------------------------------
 #### What you need: 
-- Usb install driver 16 gig, Install macOS.app from the Mac App Store, Spare SSD to install macOS
+- Usb key 16 gig, Install macOS.app from the Mac App Store, Spare SSD to install macOS
 
 
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
