@@ -62,7 +62,7 @@ This program only uses clover and kexts injection, there is no kext to modify in
 ----------------------------------------------------------------------------
 
 ## Recommand WIFI
-- Wifi mini PCI Broadcom BCM943224HMS
+- Wifi mini PCI Wifi mini PCI [Broadcom BCM943224HMS](https://www.ebay.com/itm/253022938877?hash=item3ae957a6fd:g:8JYAAMXQVT9TFoF4)
 
 - ———————————————————————————————
 
