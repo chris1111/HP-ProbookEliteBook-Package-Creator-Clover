@@ -17,7 +17,7 @@
 
 ## Credit:
 
-- Tester: djams
+- Tester: djams, mounif75
 - Clover team for Clover UEFI
 - RehabMan for all DSDT patch, patchmatic
 - Kexts Files: Rehabman, vit9696, Mieze, lvs1974
