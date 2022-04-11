@@ -158,6 +158,21 @@
 		<true/>
 		<key>KernelPm</key>
 		<true/>
+		<key>KextsToPatch</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Enable TRIM for SSD</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>AEFQUExFIFNTRAA=</data>
+				<key>Name</key>
+				<string>com.apple.iokit.IOAHCIBlockStorage</string>
+				<key>Replace</key>
+				<data>AAAAAAAAAAAAAAA=</data>
+			</dict>
+		</array>
 		<key>PanicNoKextDump</key>
 		<true/>
 	</dict>
@@ -224,32 +239,40 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>BiosReleaseDate</key>
+		<string>10/27/2021</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP154.88Z.F000.B00.2109052207</string>
+		<string>MBP121.88Z.F000.B00.2110271746</string>
 		<key>Board-ID</key>
-		<string>Mac-53FDB3D8DB8CA971</string>
+		<string>Mac-E43C1C25D4880AD6</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF915401QX0000A8</string>
+		<string>C025435014NGDVVCB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>MacBookPro15,4</string>
+		<string>MacBookPro12,1</string>
 		<key>ChassisAssetTag</key>
 		<string>Asset Tag#</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x9</string>
+		<key>EfiVersion</key>
+		<string>428.60.3.0.0</string>
+		<key>ExtendedFirmwareFeatures</key>
+		<string>0x00000008FD0FF576</string>
+		<key>ExtendedFirmwareFeaturesMask</key>
+		<string>0x00000008FF1FFF7F</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF426</string>
+		<string>0xFD0FF576</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF9FFF3F</string>
+		<string>0xFF1FFF7F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -257,13 +280,13 @@
 		<key>Mobile</key>
 		<true/>
 		<key>PlatformFeature</key>
-		<string>0x32</string>
+		<string>0x2</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,4</string>
+		<string>MacBookPro12,1</string>
 		<key>SerialNumber</key>
-		<string>FVFYK9Z1L40Y</string>
+		<string>C02QL0TSH1DP</string>
 		<key>SmUUID</key>
-		<string>0EBBEE49-306C-4AB5-BA9A-2481F5921FEB</string>
+		<string>00B73744-24FC-4AFD-BD43-1530C6AF9BA4</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
