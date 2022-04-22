@@ -62,8 +62,10 @@ This program only uses clover and kexts injection, there is no kext to modify in
 ----------------------------------------------------------------------------
 
 ## Recommand WIFI
-- Wifi mini PCI Wifi mini PCI [AzureWave WLAN+BT BCM94352HMB](https://www.aliexpress.com/item/4000385703330.html)
+- Wifi mini PCI Wifi mini PCI [AzureWave WLAN+BT BCM94352HMB](https://www.newegg.com/p/2S7-07JP-0FSF1?Description=bcm94352hmb&cm_re=bcm94352hmb-_-9SIB1A6GKN0761-_-Product&quicklink=true) newegg
+- Wifi mini PCI Wifi mini PCI [AzureWave WLAN+BT BCM94352HMB](https://www.aliexpress.com/item/4000385703330.html) aliexpress
 - Wifi mini PCI Wifi mini PCI [Broadcom BCM943224HMS](https://www.ebay.com/itm/253022938877?hash=item3ae957a6fd:g:8JYAAMXQVT9TFoF4) (Not working latest Monterey 12.3.1)
+
 
 
 
