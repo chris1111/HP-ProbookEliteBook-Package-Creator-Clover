@@ -68,12 +68,14 @@ This program only uses clover and kexts injection, there is no kext to modify in
 
 
 
-- ———————————————————————————————
+----------------------------------------------------------------------------
+
 
 Download and Build ➤ [HP-Probook-EliteBook-Package-Creator-Clover](https://github.com/chris1111/HP-ProbookEliteBook-Package-Creator-Clover/archive/refs/heads/Master.zip)	
 
 
-- ———————————————————————————————
+----------------------------------------------------------------------------
+
 
 - Video HP-Probook-EliteBook-Package-Creator-Clover ⬇︎
 
