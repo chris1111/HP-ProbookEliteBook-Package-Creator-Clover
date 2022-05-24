@@ -64,7 +64,8 @@ This program only uses clover and kexts injection, there is no kext to modify in
 ## Recommand WIFI
 - Wifi mini PCI Wifi mini PCI [AzureWave WLAN+BT BCM94352HMB](https://www.ebay.fr/itm/Azurewave-AW-CE123H-Broadcom-BCM94352-802-11ac-WiFi-card-Bluetooth-4-0-for-MAC-/272248789669) ebay
 - Wifi mini PCI Wifi mini PCI [AzureWave WLAN+BT BCM94352HMB](https://www.aliexpress.com/item/4000385703330.html) aliexpress
-- Wifi mini PCI Wifi mini PCI [Broadcom BCM943224HMS](https://www.ebay.com/itm/253022938877?hash=item3ae957a6fd:g:8JYAAMXQVT9TFoF4) (Not working for Monterey 12.1+)
+- Wifi mini PCI Wifi mini PCI [Broadcom BCM943224HMS](https://www.ebay.com/itm/253022938877?hash=item3ae957a6fd:g:8JYAAMXQVT9TFoF4) 
+- (Broadcom BCM943224HMS working for Monterey 12.1+) with boot args `brcmfx-delay=15000` Use the boot args only with Monterey 12
 
 
 
